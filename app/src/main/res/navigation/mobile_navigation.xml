@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.sense.it.wifi.iot.studentproject.ui.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_resturant"
+        android:name="com.sense.it.wifi.iot.studentproject.ui.ResturantFragment"
+        android:label="@string/title_resturant"
+        tools:layout="@layout/fragment_resturant" />
+
+    <fragment
+        android:id="@+id/navigation_map"
+        android:name="com.sense.it.wifi.iot.studentproject.ui.MapsFragment"
+        android:label="@string/title_map"
+        tools:layout="@layout/fragment_maps" />
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.sense.it.wifi.iot.studentproject.ui.ProfileFragment"
+        android:label="@string/title_profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>

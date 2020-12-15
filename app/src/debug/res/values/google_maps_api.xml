@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=70:87:2E:91:93:9A:CA:D3:26:C3:36:31:CE:3D:06:C1:65:D9:76:50%3Bcom.sense.it.wifi.iot.studentproject.ui
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.sense.it.wifi.iot.studentproject.ui
+
+    SHA-1 certificate fingerprint:
+    70:87:2E:91:93:9A:CA:D3:26:C3:36:31:CE:3D:06:C1:65:D9:76:50
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyASijj_sc5t1tR4TqRiAfIwGmuUB8lUklE</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StudentProject</string>
+    <string name="title_home">Home</string>
+    <string name="title_resturant">Restaurant</string>
+    <string name="title_map">Map</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_activity_login">Log In</string>
+    <string name="title_activity_sign">Sign In</string>
+    <string name="add_favr">Added to Favorites</string>
+    <string name="remove_favr">Removed from Favorites</string>
+    <string name="no_favorites_items">No Favorites</string>
+    <string name="no_favorites_msg">Long press on item to add to favorites.</string>
+</resources>
